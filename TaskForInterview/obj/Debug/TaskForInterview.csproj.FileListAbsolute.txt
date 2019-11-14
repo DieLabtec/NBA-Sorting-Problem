@@ -1,0 +1,9 @@
+C:\Users\allek\source\repos\TaskForInterview\bin\Debug\TaskForInterview.exe.config
+C:\Users\allek\source\repos\TaskForInterview\bin\Debug\TaskForInterview.exe
+C:\Users\allek\source\repos\TaskForInterview\bin\Debug\TaskForInterview.pdb
+C:\Users\allek\source\repos\TaskForInterview\bin\Debug\Newtonsoft.Json.dll
+C:\Users\allek\source\repos\TaskForInterview\bin\Debug\Newtonsoft.Json.xml
+C:\Users\allek\source\repos\TaskForInterview\obj\Debug\TaskForInterview.csprojAssemblyReference.cache
+C:\Users\allek\source\repos\TaskForInterview\obj\Debug\TaskForInterview.csproj.CopyComplete
+C:\Users\allek\source\repos\TaskForInterview\obj\Debug\TaskForInterview.exe
+C:\Users\allek\source\repos\TaskForInterview\obj\Debug\TaskForInterview.pdb
